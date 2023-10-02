@@ -10,7 +10,6 @@ import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.TimePicker;
-import android.widget.Toast;
 
 import java.util.Calendar;
 
@@ -30,17 +29,8 @@ public class RegistroMedicamento extends AppCompatActivity implements View.OnCli
         edhora=(EditText) findViewById(R.id.edhora);
         bufecha.setOnClickListener(this);
         buhora.setOnClickListener(this);
-
-        Button agregar = (Button) findViewById(R.id.agregar);
-
-        agregar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(RegistroMedicamento.this, "Medicamento Agregado", Toast.LENGTH_SHORT).show();
-            }
-        });
-
     }
+
     @Override
     public void onClick(View v) {
         if (v==bufecha){
@@ -56,11 +46,6 @@ public class RegistroMedicamento extends AppCompatActivity implements View.OnCli
                 }
             }
             ,dia,mes,ano);
-            datePickerDialog.getDatePicker().init(ano, mes, dia, new DatePicker.OnDateChangedListener() {
-                @Override
-                public void onDateChanged(DatePicker datePicker, int i, int i1, int i2) {
-                }
-            });
             datePickerDialog.show();
         }
         if (v==buhora){

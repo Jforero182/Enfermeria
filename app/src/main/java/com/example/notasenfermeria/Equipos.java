@@ -5,12 +5,16 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.Button;
-import android.widget.Spinner;
+import android.widget.AutoCompleteTextView;
 import android.widget.Toast;
 
 public class Equipos extends AppCompatActivity {
+
+    String[] item = {"Fonendoscopio", "Tensiómetro", "Termómetro", "Oxímetro", "Aspirador", "Nebulizador", "Glucómetro"};
+
+    AutoCompleteTextView autoCompleteTextView;
 
     ArrayAdapter<String> adapterItems;
 
@@ -21,22 +25,17 @@ public class Equipos extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_equipos);
 
-        Button agregar = (Button) findViewById(R.id.agregar);
+        autoCompleteTextView = findViewById(R.id.auto_complete_txt);
+        adapterItems = new ArrayAdapter<String>(this, R.layout.activity_equipos, item);
 
-        agregar.setOnClickListener(new View.OnClickListener() {
+        autoCompleteTextView.setAdapter(adapterItems);
+
+        autoCompleteTextView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onClick(View view) {
-                Toast.makeText(Equipos.this, "Equipo Agregado", Toast.LENGTH_SHORT).show();
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                String item = adapterView.getItemAtPosition(i).toString();
+                Toast.makeText(Equipos.this, "Items: " + item, Toast.LENGTH_SHORT).show();
             }
         });
-
-        Spinner spinner = findViewById(R.id.Equipos);
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.Equipos, android.R.layout.simple_spinner_item);
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(adapter);
-
-
-
     }
-        }
+}
