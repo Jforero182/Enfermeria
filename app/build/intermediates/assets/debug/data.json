@@ -1,0 +1,98 @@
+{
+  "menu": [
+    {
+      "name" : "HIGIENE BUCAL",
+      "options":[
+        "Se realiza higiene bucal al usuario.",
+        "Asisto al usuario en higiene bucal.",
+        "No se realiza actividad por petición del Familiar."
+      ]
+    },
+    {
+      "name" : "ALIMENTACIÓN ORAL",
+      "options" :[
+        "Se asiste al usuario en alimentación al desayuno.",
+        "Se suministra alimentación a la media mañana.",
+        "Se asiste alimentación liquida al usuario al almuerzo.",
+        "Se suministra alimentación en la media tarde",
+        "No se realiza actividad por petición del Familiar.",
+        "Se asiste alimentación al usuario en la comida."
+      ]
+    },
+
+    {
+      "name" : "BAÑO DEL PACIENTE EN CAMA O SILLA",
+      "options" :[
+        "Se realiza baño al usuario en silla.",
+        "Se realiza baño al usuario en cama.",
+        "Se realiza baño al usuario en ducha.",
+        "No se realiza actividad por petición del Familiar.",
+        "No se realiza por ser turno nocturno."
+      ]
+    },
+
+    {
+      "name" : "TENDIDO DE CAMA",
+      "options" :[
+        "Se realiza cambio de sabanas y tendido de cama.",
+        "Se realiza estiramiento de sabanas y arreglo de cama.",
+        "Se realiza limpieza y tendido de cama.",
+        "No se realiza actividad por petición del Familiar.",
+        "Se realiza cambio de sabanas y arreglo de unidad domiciliaria del usuario."
+      ]
+    },
+    {
+      "name" : "ASEO GENITAL Y/O CAMBIO DE PAÑAL",
+      "options" :[
+        "Se realiza cambio de pañal y aseo genital.",
+        "Cambio de pañal y limpio genitales.",
+        "No se realiza actividad por petición del Familiar.",
+        "Se realiza acompañamiento al usuario al baño."
+
+      ]
+    },
+
+    {
+      "name" : "CAMBIOS DE POSICION Y LUBRICACION DE LA PIEL",
+      "options" :[
+        "Se realiza cambio de posición lado derecha y lubrico piel.",
+        "Se realiza cambio de posición lado izquierdo y lubrico piel.",
+        "No se realiza actividad por petición del Familiar.",
+        "Se realiza cambio de posición y lubrico piel."
+      ]
+    },
+    {
+      "name" : "ACOMPAÑAMIENTO O APOYO",
+      "options" :[
+        "En compañia del familiar se realiza traslado de la cama a silla sin complicaciones.",
+        "Asisto al usuario en el momento de vestirse.",
+        "Ayudo al usuario al realizar la actividad de peinarse.",
+        "No se realiza actividad por petición del Familiar.",
+        "Realizo plan casero con el usuario."
+      ]
+    },
+    {
+      "name" : "ACTIVIDADES DE ENTRETENIMIENTO",
+      "options" :[
+        "Asisto al usuario en lectura de la biblia.",
+        "Acompaño al usuario al momento de orar.",
+        "Asisto al usuario en lectura del periodico.",
+        "Acompaño al usuario al momento de ver televisión.",
+        "Realizo actividad de juego de parques.",
+        "Realizo actividad de juego de naipe.",
+        "No se realiza por ser turno nocturno.",
+        "No se realiza actividad por petición del Familiar.",
+        "Asisto al usuario en sus actividades lúdicas."
+      ]
+    },
+    {
+      "name" : "DESECHOS DE ELEMENTOS BIOSANITARIOS",
+      "options" :[
+        "Se realizo desecho de tapabocas y guantes en la caneca roja.",
+        "Se realizo desecho de tapa bocas en la caneca roja.",
+        "No se realiza actividad por petición del Familiar.",
+        "Se realizo desecho de guantes en la caneca roja."
+      ]
+    }
+  ]
+}

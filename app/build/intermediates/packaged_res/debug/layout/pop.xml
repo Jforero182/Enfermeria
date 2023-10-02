@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@drawable/rounded">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="Firma" />
+
+        <LinearLayout
+            android:layout_width="302dp"
+            android:layout_height="108dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <com.example.notasenfermeria.DRawing
+                android:id="@+id/draw_space"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/border_black" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/erase_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="Borrar"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/close_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:text="Cerrar"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

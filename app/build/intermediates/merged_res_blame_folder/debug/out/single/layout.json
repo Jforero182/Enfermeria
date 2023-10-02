@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_notas.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_fcuidador.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_fcuidador.xml"
+    },
+    {
+        "merged": "com.example.notasenfermeria.app-mergeDebugResources-29:/layout/activity_registro_medicamento.xml",
+        "source": "com.example.notasenfermeria.app-main-32:/layout/activity_registro_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_signos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_equipos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_equipos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\main_popup.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\main_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_plan_manejo.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_plan_manejo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_recibida.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_recibida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\popup.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_pausas_activas.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_pausas_activas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_eliminada.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_eliminada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_control_liquidos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_control_liquidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_registro_medicamento.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_registro_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\pop.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_asistencia.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_asistencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\popestado.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\popestado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\medicaments_popup.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\medicaments_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\notes_popup.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\notes_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_gastos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_gastos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-mergeDebugResources-29:\\layout\\activity_eventoadverso.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_eventoadverso.xml"
+    }
+]

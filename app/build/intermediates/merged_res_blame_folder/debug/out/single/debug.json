@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_manage_accounts_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_manage_accounts_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_lavender_border.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\lavender_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_fcuidador.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_fcuidador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_popupbg.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\popupbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_assignment_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_assignment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_signos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_inventory_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_inventory_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_backgroundfinal.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\backgroundfinal.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_registro_medicamento.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_registro_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_monitor_heart_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_monitor_heart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_popup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_lavender_border2.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\lavender_border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_pause_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_pause_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_green_border.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\green_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_backgraound.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\backgraound.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_gastos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_gastos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_recibida.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_recibida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_medicaments_popup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\medicaments_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_notas.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_eventoadverso.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_eventoadverso.xml"
+    },
+    {
+        "merged": "com.example.notasenfermeria.app-merged_res-30:/layout_activity_registro_medicamento.xml.flat",
+        "source": "com.example.notasenfermeria.app-main-32:/layout/activity_registro_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_asistencia.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_asistencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_eliminada.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_eliminada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_plcazul.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\plcazul.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_medication_liquid_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_medication_liquid_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_backg.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\backg.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_airline_seat_flat_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_airline_seat_flat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_plcverde.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\plcverde.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_plan_manejo.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_plan_manejo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_pop.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_backsin.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\backsin.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_equipos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_equipos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_popestado.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\popestado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_campaign_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_campaign_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_grey_border.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\grey_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_pausas_activas.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_pausas_activas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_control_liquidos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_control_liquidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_main_popup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\main_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_medication_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_medication_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_child_care_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_child_care_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_health_and_safety_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_health_and_safety_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_notes_popup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\notes_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_azulplc.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\azulplc.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_mainpopup.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\mainpopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_border_black.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\border_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-merged_res-30:\\drawable_ic_baseline_notes_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.notasenfermeria.app-main-32:\\drawable\\ic_baseline_notes_24.xml"
+    }
+]

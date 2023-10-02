@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Asistenciia">
+        <item>Familiar</item>
+        <item>Cuidador</item>
+
+    </string-array>
+    <string-array name="Equipos">
+        <item>Fonendoscopio</item>
+        <item>Tensiómetro</item>
+        <item>Termómetro</item>
+        <item>Oxímetro</item>
+        <item>Aspirador</item>
+        <item>Nebulizador</item>
+        <item>Glucómetro</item>
+    </string-array>
+    <string-array name="Evento">
+        <item>Evento Adversor</item>
+        <item>Incidente</item>
+        <item>Complicación</item>
+
+    </string-array>
+    <string-array name="Gastos">
+        <item>AGUJA HIPODERMICA</item>
+        <item>ALCOHOL ANTISEPTICO</item>
+        <item>APOSITO QUIRURGICO</item>
+        <item>BOLSA NUTRIFLO 1.5l</item>
+        <item>BOLSA RECOLECCION ORINA X 2.000mL</item>
+        <item>BRANULA INTRAVENOSO</item>
+        <item>BURETROL</item>
+        <item>CLORULO DE SODIO 0.9% 500ml</item>
+        <item>CUTICEL</item>
+        <item>EQUIPO MACROGOTEO</item>
+        <item>ESPADADRAPO HOSPITALARIO DE 4X10 YDS</item>
+        <item>GASA PRECORTADA ESTERIL</item>
+        <item>GUANTE EXAMEN</item>
+        <item>GUANTE ESTERIL</item>
+        <item>HOJILLA BISTURI</item>
+        <item>JABON QUIRURJICO</item>
+        <item>JERINGA 60 ML TIPO LIPO PUNTA CATERER</item>
+        <item>JERINGA DESECHABLE</item>
+        <item>KIT DE MICRONEBULIZADOR ADULTO</item>
+        <item>KIT DE MICRONEBULIZADOR NIÑO</item>
+        <item>LANCETAS</item>
+        <item>MASCARA PARA TRAQUEOSTOMIA ADULTO</item>
+        <item>MASCARA FACIAL C/ELASTICO "GLOBAL H"</item>
+        <item>MICROPORE 2 COLOR PIEL</item>
+        <item>SONDA(CATETER) SUCCION</item>
+        <item>SONDA FOLEY</item>
+        <item>SONDA NELATON</item>
+        <item>TAPON HEPARINIZADO</item>
+        <item>CANULA NASAL</item>
+        <item>TIRAS PARA GLUCOMETRO</item>
+        <item>MANGUERA DE SUCCION</item>
+        <item>URUFUNDA</item>
+        <item>VENDA ALGODON 5X5</item>
+        <item>VENDA DE GASA 4X5</item>
+        <item>VENDA ELASTICA</item>
+        <item>PAÑALES</item>
+    </string-array>
+    <string-array name="Tipo_Documento">
+        <item>C.C.</item>
+        <item>D.E.</item>
+        <item>C.D.</item>
+        <item>A.S.</item>
+        <item>N.V.</item>
+        <item>S.I.</item>
+        <item>P.T.</item>
+        <item>S.C.</item>
+        <item>C.N.</item>
+        <item>M.S.</item>
+        <item>P.E.</item>
+        <item>NIT</item>
+        <item>C.E.</item>
+        <item>R.C.</item>
+        <item>T.I.</item>
+        <item>P.A.</item>
+    </string-array>
+    <string-array name="estadoe">
+        <item>Entrego</item>
+        <item>Recibo</item>
+    </string-array>
+    <string-array name="eventoadv">
+        <item>Evento Trazador</item>
+        <item>Descripción del evento</item>
+        <item>Hallazgos</item>
+        <item>Conducta Inmediata a seguir</item>
+    </string-array>
+    <string-array name="funcio">
+        <item>Funcionario Día</item>
+        <item>Funcionario Noche</item>
+    </string-array>
+    <string-array name="heridas">
+        <item>Cuidados, Gastro</item>
+        <item>Ulceras</item>
+        <item>Nasogastrica</item>
+        <item>Traqueostomia</item>
+        <item>Cambio Sonda Vesical</item>
+        <item>Sonda Foley</item>
+
+    </string-array>
+    <string-array name="manejo">
+        <item>Valoraciones</item>
+        <item>Rehabilitación</item>
+        <item>Clinica Heridas</item>
+    </string-array>
+    <string-array name="plan">
+        <item>Medicina</item>
+        <item>Psicologia</item>
+        <item>Trabajo Social</item>
+        <item>Nutrición</item>
+        <item>Jefe Enfermería</item>
+        <item>Gestor Seguimiento</item>
+        <item>Valoración Clinica Heridas</item>
+        <item>Geriatria</item>
+
+    </string-array>
+    <string-array name="terapias">
+        <item>T. Lenguaje</item>
+        <item>T. Física</item>
+        <item>T. Ocupacional</item>
+        <item>T. Respiratoria</item>
+
+    </string-array>
+    <string-array name="turno">
+        <item>8 Horas</item>
+        <item>12 Horas</item>
+        <item>24 Horas</item>
+
+    </string-array>
+    <color name="Green">#4CAF50</color>
+    <color name="Lavender">#8692f7</color>
+    <color name="black">#FF000000</color>
+    <color name="gre">#b5b5b5</color>
+    <color name="grey">#808080</color>
+    <color name="greyclaro">#B3B3B3</color>
+    <color name="ic_launcher_background">#00A8E0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#F44336</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="_10sdp"/>
+    <item name="Cuidador" type="id"/>
+    <item name="event" type="id"/>
+    <string name="app_name">NotasEnfermeria</string>
+    <string name="evolucion">Evolucion</string>
+    <string name="select">Select Item</string>
+    <style name="Theme.NotasEnfermeria" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/Lavender</item>
+        <item name="colorPrimaryVariant">@color/Lavender</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

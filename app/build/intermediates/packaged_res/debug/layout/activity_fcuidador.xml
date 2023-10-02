@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FCuidador">
+<!--        android:background="@drawable/backsin">-->
+
+    <TextView
+        android:id="@+id/date_text"
+        android:layout_width="157dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:enabled="false"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.625"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257" />
+
+    <Button
+        android:id="@+id/date_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@color/Lavender"
+        android:text="Fecha y Hora"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257" />
+
+    <TextView
+        android:id="@+id/hgastos"
+        android:layout_width="401dp"
+        android:layout_height="138dp"
+        android:gravity="center"
+        android:text="NOTAS CUIDADOR"
+        android:textColor="@color/black"
+        android:textSize="36dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.085" />
+
+    <Button
+        android:id="@+id/add_btn"
+        android:layout_width="133dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/gre"
+        android:text="Agregar"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.528"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.811" />
+
+    <Button
+        android:id="@+id/recibo"
+        android:layout_width="144dp"
+        android:layout_height="49dp"
+        android:backgroundTint="@color/gre"
+        android:text="ReciboP"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.018"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.883" />
+
+    <Button
+        android:id="@+id/firma"
+        android:layout_width="144dp"
+        android:layout_height="49dp"
+        android:backgroundTint="@color/gre"
+        android:text="Firma"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.961" />
+
+    <Button
+        android:id="@+id/entrega"
+        android:layout_width="144dp"
+        android:layout_height="49dp"
+        android:backgroundTint="@color/gre"
+        android:text="EntregaP"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.977"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.883" />
+
+    <TextView
+        android:id="@+id/tendido"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/green_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="TENDIDO DE CAMA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.53" />
+
+    <TextView
+        android:id="@+id/baño"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/green_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="BAÑO DEL PACIENTE EN CAMA O SILLA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.976"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.377" />
+
+    <TextView
+        android:id="@+id/higiene"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/green_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="HIGIENE BUCAL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.377" />
+
+    <TextView
+        android:id="@+id/desechos"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/green_border"
+        android:gravity="center"
+        android:justificationMode="inter_word"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:text="DESECHOS"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.958"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.674" />
+
+    <TextView
+        android:id="@+id/alimentacion"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/lavender_border2"
+        android:gravity="center"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:text="ALIMENTACION ORAL"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.377" />
+
+    <TextView
+        android:id="@+id/posición"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/lavender_border2"
+        android:gravity="center"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:text="CAMBIOS DE POSICION Y LUBRICACION"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.674" />
+
+    <TextView
+        android:id="@+id/acompañamiento"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/lavender_border2"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:text="ACOMPAÑAMIENTO O APOYO"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.958"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.53" />
+
+    <TextView
+        android:id="@+id/actividades"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/green_border"
+        android:gravity="center"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:text="ACTIVIDADES DE ENTRETENIMIENTO"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.674" />
+
+    <TextView
+        android:id="@+id/aseo"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:background="@drawable/lavender_border2"
+        android:gravity="center"
+        android:text="ASEO GENITAL Y/O CAMBIO DE PAÑAL"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.53" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
